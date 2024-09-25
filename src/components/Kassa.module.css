@@ -1,0 +1,11 @@
+.kassa {
+  margin-top: 20px;
+ 
+  justify-content: center;
+
+  flex-wrap: wrap;
+}
+.tuoteita{
+  border: solid black ;
+  gap: 20px;
+}
